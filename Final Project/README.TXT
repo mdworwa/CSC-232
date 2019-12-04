@@ -1,6 +1,6 @@
 PROJECT TITLE: CSC232 Final Project
 
-PURPOSE OF PROJECT: To build a command-line game using the skills you were taught in the Object Oriented Development course.
+PURPOSE OF PROJECT: To build a command-line game using the skills you were taught in the Object Oriented Software Development course.
 
 DATE: April 2018 - May 2018
 
