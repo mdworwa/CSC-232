@@ -1,12 +1,11 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
+PROJECT TITLE: CSC232 Final Project
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PURPOSE OF PROJECT: To build a command-line game using the skills you were taught in the Object Oriented Development course.
+
+DATE: April 2018 - May 2018
+
+HOW TO START THIS PROJECT: Call main to start the game.
+
+AUTHORS: Monika Worwa and Giselle Villegas
+
+USER INSTRUCTIONS: Go through each of the rooms to collect items for a party. Once you have all of the items, you win. You can also type 'help' at any point to see all of the commands and what they do.
