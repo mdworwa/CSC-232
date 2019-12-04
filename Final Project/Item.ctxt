@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Item
+comment1.params=pName\ pType\ pDescription
+comment1.target=Item(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=java.lang.String\ getType()
+comment4.params=
+comment4.target=java.lang.String\ getDescription()
+comment5.params=aName
+comment5.target=void\ setName(java.lang.String)
+comment6.params=aType
+comment6.target=void\ setType(java.lang.String)
+comment7.params=aDescription
+comment7.target=void\ setDescription(java.lang.String)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9
